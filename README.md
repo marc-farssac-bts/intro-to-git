@@ -1,6 +1,6 @@
 # My first repository change from WebStorm for the second time
 
-One Paragraph of project description goes here with my new change
+One Paragraph of project description goes here with my new change again
 
 I am making this change and adding it to the same commit
 
