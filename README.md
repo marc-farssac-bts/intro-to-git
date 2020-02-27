@@ -1,4 +1,4 @@
-# Project Title
+# Project Title of my first repository
 
 One Paragraph of project description goes here
 
