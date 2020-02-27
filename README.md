@@ -1,12 +1,12 @@
-# Project title fourth commit
+# My first repository
 
 One Paragraph of project description goes here
 
-## Getting Started with commiting files in Visual Studio Code
+## Getting Started with repositories
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites to my seventh change
+### Prerequisites to my new change
 
 What things you need to install the software and how to install them
 
